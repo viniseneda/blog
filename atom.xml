@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://viniseneda.github.io/blog/"/>
-  <updated>2017-01-05T17:05:58.875Z</updated>
+  <updated>2017-01-19T12:34:18.088Z</updated>
   <id>https://viniseneda.github.io/blog/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dia 19 e ongoing</title>
+    <link href="https://viniseneda.github.io/blog/2017/01/19/Dia-19-e-ongoing/"/>
+    <id>https://viniseneda.github.io/blog/2017/01/19/Dia-19-e-ongoing/</id>
+    <published>2017-01-19T11:10:34.000Z</published>
+    <updated>2017-01-19T12:34:18.088Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><p>Ontem depois de um certo esforço achei um tema ótimo pro Blog. Agora procuro investigar melhor informações de anotações e etc.</p>
+<ul>
+<li>Vocoder e radio<br><a href="http://gnuradio.org/" target="_blank" rel="external">http://gnuradio.org/</a><br>Procurar projetos simples com arduino no futuro.</li>
+<li><p>Descobri o nome do jogo que tentava lembrar ontem: Castle Doctrine. Também notei que ele é vendido por um preço muito alto o que matou parte do ponto todo do jogo; me lembrei de love. Fico pensando se faria a mesma coisa com o resultado do meu trabalho?</p>
+<p><a href="http://hcsoftware.sourceforge.net/jason-rohrer/" target="_blank" rel="external">http://hcsoftware.sourceforge.net/jason-rohrer/</a></p>
+</li>
+<li>Teria da Informação pode iluminar a teoria da arquitetura de tal forma. Quanto de informação uma arquitetura contém? A pós-modernidade como uma visão da crise vista de do ponto de vista das ideologias conflitantes quanto a criação de uma arquitetura; Teoria da Informação pode realmente trazer a realização da arquitura de volta ao seu status de construção e assim talves reviver o arquiteto da sua consciência? Ele tem consciência? (Sistemas sociais me parecem formas muito promissosoras pra pensar a coexistencia de diferentes estéticas – complexas – dentro de uma mesma cidade ou lugar, por exemplo)</li>
+<li>Considerar a mudança conceitual e a perda de informação dentro dos meus proprios processos e textos também é interessante, talvez até muito importante. Possível que o que eu venha dizendo como sendo uma simpatia com o Budismo seja resultado de uma busca por outras formas de encontrar segurança não podem mais confiar nos meus próprios “registros”. (“Não se preocupe, ja esqueci tudo” jovem Hans na pg 100. VERY GOOD POP SONGS pg POPMIX spotify)</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://viniseneda.github.io/blog/images/chart.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ontem depois de um certo esforço achei um tema ótimo pro Blog. Agora procuro investigar melhor informações de anotações e etc.&lt;/
+    
+    </summary>
+    
+    
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
+    
+      <category term="sisteamas" scheme="https://viniseneda.github.io/blog/tags/sisteamas/"/>
+    
+      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
+    
+  </entry>
   
   <entry>
     <title>FIRST WEEK OF JANUÁRIO</title>
@@ -319,11 +359,11 @@
     
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
+      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
+    
       <category term="netlogo" scheme="https://viniseneda.github.io/blog/tags/netlogo/"/>
     
       <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
-    
-      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
     
   </entry>
   
@@ -393,11 +433,11 @@
     </summary>
     
     
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
       <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
-    
-      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
       <category term="política" scheme="https://viniseneda.github.io/blog/tags/politica/"/>
     
@@ -452,17 +492,17 @@
     </summary>
     
     
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
+    
       <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
     
-      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
-    
       <category term="programação" scheme="https://viniseneda.github.io/blog/tags/programacao/"/>
     
       <category term="complexidade" scheme="https://viniseneda.github.io/blog/tags/complexidade/"/>
-    
-      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
     
   </entry>
   
