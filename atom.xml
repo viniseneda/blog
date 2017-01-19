@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MA BLOG</title>
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://viniseneda.github.io/blog/"/>
+  <updated>2017-01-05T17:05:58.875Z</updated>
+  <id>https://viniseneda.github.io/blog/</id>
+  
+  <author>
+    <name>VVS</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FIRST WEEK OF JANUÁRIO</title>
+    <link href="https://viniseneda.github.io/blog/2017/01/05/FIRST-WEEK-OF-JANUARIO/"/>
+    <id>https://viniseneda.github.io/blog/2017/01/05/FIRST-WEEK-OF-JANUARIO/</id>
+    <published>2017-01-05T15:02:28.000Z</published>
+    <updated>2017-01-05T17:05:58.875Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is for the blog post of this very same week in which I currently reside and “am”, in time. </p>
+<h2 id="5-Januario"><a href="#5-Januario" class="headerlink" title="5 Januário"></a>5 Januário</h2><p>Oke, escrevendo isso aqui enquanto faço uma pausa da ordem de coisas a serem feitas hoje. (Se bem que como escrever no blog era uma atividade a ser feita hoje…)</p>
+<ul>
+<li><p>Tinha a impressão haviam mais notas sobre <em>How Societies Remember</em> (do Connerton). Não que elas tenham sumido também.</p>
+<p>(quero colocar aqui imagens sobre a visual novel que joguei ontem e fazer alguns cometários sobre isso, mas nao queria que a imagen ficasse grande demais. Preciso encontrar uma forma de medir a formatação padrão pras imagens)</p>
+<p>R. Sennet Rassim</p>
+<p>Studs Turkel</p>
+<p>M. Oakeshott<br>procurar trecho onde ele é comentado</p>
+<p>3 memórias</p>
+<p>#história pessoal<br>#memoria cognitiva<br>#memoria do habito</p>
+<p>##O EFEITO DAS MEMORIAS (3) NA CONSCIÊNCIA -&gt; E O RESULTADO EM AÇÃO ATRAVÉS DO HÁBITO.</p>
+<p>Canonical Paralelism</p>
+<p>Rhetoric of reenactment</p>
+<ul>
+<li><p>“But of blood proves membership of an ancient group, that membership must also be visibly displayed. It is displayed through ceremonial privileges and through ceremonial avocations” pg86</p>
+<p>Aqui tem referencia a toda a forma que descendencia era muito fortemente associada a praticas culturais, e se tornava de fato um componete fisico do corpo: o sangue.</p>
+<p>Agora, como o livro do Beniger coloca, a proximidade familiar tambem se mostra util no sentido de criar ambientes “confortaveis” pra certos tipos de processamento de informação. (Ao mesmo tempo, não sei como conciliar os dois, talvez não seja realmente possível…)</p>
+</li>
+</ul>
+</li>
+<li><p>Testando com diferentes formatos de arquivo. </p>
+</li>
+</ul>
+<p><img src="https://viniseneda.github.io/blog/images/gatos.gif" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is for the blog post of this very same week in which I currently reside and “am”, in time. &lt;/p&gt;
+&lt;h2 id=&quot;5-Januario&quot;&gt;&lt;a href=&quot;#5-Janu
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>semana do natal</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/22/semana-do-natal/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/22/semana-do-natal/</id>
+    <published>2016-12-22T10:28:07.000Z</published>
+    <updated>2017-01-05T17:15:13.693Z</updated>
+    
+    <content type="html"><![CDATA[<p>Enfim o fim de ano. Estou aqui em RC, estudando muitas coisas mas acho que saindo do lugar de alguma forma. </p>
+<ul>
+<li>Ontem ao assistir as aulas de introdução ao curso de computação gráfica notei muitas conexões possíveis e desejáveis com arquitetura e com design. A forma que os métodos de “renderização” foram se desenvolvendo e a relação dos usuarios/criadores com os efeitos produzidos. Na arquitetura o desenvolvimento de técnicas específicas está associada a criação de efeitos espefícos nas sensibilidades humanas e assim talvez “As Arquiteturas”.</li>
+</ul>
+<p>25/12</p>
+<ul>
+<li>Natal hoje. Pesquisando algumas coisas sobre os renderizadores e os métodos utilizados pra produzir myst. A relação entre a tecnologia proprietária pra renderização e os resultados “subjetivos” é muito forte. </li>
+</ul>
+<p><a href="https://en.wikipedia.org/wiki/Silicon_Graphics" target="_blank" rel="external">https://en.wikipedia.org/wiki/Silicon_Graphics</a>. Pesquisar melhor sobre a história dessa impresa junto com a história da tecnologia. Assistir também mais um pouco das aulas do curso, e medir a real possibilidade de fazr ele junto com cs50.</p>
+<ul>
+<li>Acabei de descobrir que o canal da GDC tem vídeos muito completos com os desenvolvedores de jogos “clássicos”. Programar pra assistir.</li>
+</ul>
+<p><a href="youtube.com/watch?v=7cULHgP8tmo">youtube.com/watch?v=7cULHgP8tmo</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Enfim o fim de ano. Estou aqui em RC, estudando muitas coisas mas acho que saindo do lugar de alguma forma. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ontem ao assist
+    
+    </summary>
+    
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="rendering" scheme="https://viniseneda.github.io/blog/tags/rendering/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hugo</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/10/hugo/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/10/hugo/</id>
+    <published>2016-12-10T02:37:02.000Z</published>
+    <updated>2017-01-05T15:05:28.008Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://viniseneda.github.io/blog/images/hugo.jpeg" alt=""></p>
+<p>Qual são os códigos (programação, se começar a pensar pelo Beniger(?)) usados pelo autor pra dar conta de escrever toda a história a mão?</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://viniseneda.github.io/blog/images/hugo.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Qual são os códigos (programação, se começar a pensar pelo B
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sims, BattleBots, Cellular Automata God and Go</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/09/Sims-BattleBots-Cellular-Automata-God-and-Go/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/09/Sims-BattleBots-Cellular-Automata-God-and-Go/</id>
+    <published>2016-12-09T17:07:36.000Z</published>
+    <updated>2016-12-10T02:18:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="http-www-gamestudies-org-0102-pearce"><a href="#http-www-gamestudies-org-0102-pearce" class="headerlink" title="http://www.gamestudies.org/0102/pearce/"></a><a href="http://www.gamestudies.org/0102/pearce/" target="_blank" rel="external">http://www.gamestudies.org/0102/pearce/</a></h2><p>Texto do journal de game studies.</p>
+<ul>
+<li><blockquote><p>If you’re building a solution, how large that solution space is gives the player a much stronger feeling of empathy. If they know that what they’ve done is unique to them, they tend to care for it a lot more. I think that’s the direction I tend to come from.</p>
+</blockquote>
+<p><strong>Aqui eu visualizo aquele meu conjunto de pensamentos a respeito da memória-cognição-criação: ao ser forçado a descobrir diferentes “utilidades” de um objeto para completar um objetivo, jogar acaba construindo uma relação mais intíma com o mesmo, é quase como se houvesse uma maior “densidade de ideias” em torno de um objeto dependendo dos usos possíveis (ação, criação) que um indivíduo pode fazer dele.</strong></p>
+<p>Como fundamentar essa ideia?</p>
+</li>
+<li><blockquote><p>WW: There were things that influenced me—not many though. There was a very old game called Pinball Construction Set by Bill Budge which was great. He was kind of playing around with the first pre-Mac Lisa interface, which was icon-based. He actually put this in the game, even though it was an Apple 2 game. He kind of emulated what would later become the Mac interface. But it was very easy to use, and you would create pinball sets with it which you could then play with. I thought that was very cool.</p>
+</blockquote>
+<p>Pensar também no modo que os desginers e criadores interagiam com tecnologias de sua própria época. O problema da interface gráfica, por exemplo, só se tornou fundamento do desenvolvimento computacional nos dias de hoje, imagino claramente que nos primeiros computadores pessoais, pensar na interface gráfica era um dos maiores desafios do desenvolvimento. NÃO SERIA A INTERFACE O QUE DITA O DESENVOLVIMENTO?</p>
+<p>A interação só poderia se realizar na interface, está na própria palavra. A imaginação criadora, necessariamente tem de pensar pela interface eu acho, já que foi através da interface –alguma– que se tornou possível pensar (no objeto?).</p>
+<p>INTERFACE.</p>
+</li>
+<li><p>Simulação contém uma relação homóloga com a duração da experiência. Começo a lmebrar dos raciocínios que usei para pensar meu projeto de pesquisa, de como a resposta imediata de um computador as ações de um usário no tempo, faz com que a identificação de realidades se confunda.</p>
+</li>
+<li><blockquote>
+<p>What’s the simplest mental model that you can walk up to one of these games and start playing it, and at least understand the basics? Now it might be the wrong model, but it still has to bootstrap into your learning process. So for most of our games, there’s some overt metaphor that allows you approach the simulation</p>
+</blockquote>
+<p>Metáfora como elemento fundamental das interfaces. Não se deve esquecer que as interfaces devem se inserir no universo conhecido de uma pessoa, de modo que ela consiga operar um aparelho completamente desconhecido de si. Eu posso usar qualquer computador com Windows, posso escrever para várias maquinas em C, sendo que no fim a realdiade física dos circuitos e quase que infinitamente diferente.</p>
+</li>
+<li><blockquote>
+<p>Roughly, yes. And I’m thinking that some of that will be just standardized hill climbing behavior where we’re trying to optimize variables for a particular player type. But another component could be that players do some very specific scenario or sequence of action that the computer recognizes, and says, “Hey, that’s kind of an interesting little sub-plot. Let’s try that out on some other people.” At that point, the computer is just sharing interesting things from one player and trying them out on other players. So in fact you have the players kind of cross-pollinating their creativity with each other, but it’s transparently mediated by the computer. They don’t even know whether the computer came up with this, or some other player in Oklahoma, or what. They just know that the game is doing something different today than it did yesterday.</p>
+<p>You know what’s kind of interesting is right now with the storyboarding function, we’ve got players trying to reverse engineer a static model onto the computer for the most part. And in that case you’re going to have a model on the computer that’s always changing, so it’s adapting as the player’s adapting. Because basically there is this adaptive system, which is the player, slowly approaching this model on the computer, getting closer and closer in their mind to understanding the way that model works. But now you’re going to have these two models, the player model and the computer model, kind of chasing each other around. So as the player gets closer and closer to understanding the computer model, the computer will be changing into something else in response to the player’s actions. So, it’s kind of like the dog chasing its tail in a way.</p>
+</blockquote>
+<p>Tudo isso que ele fala do compartilhamento de conteúdo criad pelo usuário, me parece muit a experiência de SPORE; no entanto não funcionou muito bem. Por outro lado, Minecraft, construiiu sistemas de compartilhamento auto regulados automaticamente.</p>
+<p>Talvez a interferência de um mediador –servidor– seja tão ruim quanto um tipo de estado?</p>
+</li>
+<li><blockquote>
+<p>WW: So you know, it’s parallel processing of a sort. Then you know there are these tricks about, “Okay, so how do you do that?” One thing that we found in playing with The Sims is that it’s pretty important that you have a consistent level of abstraction. It doesn’t make sense to have everything highly detailed except one aspect and then have it abstracted. So in fact you want the entire world and the entire representation to be abstracted at almost the same level. At which point it holds together very nicely. It’s kind of hard for you to go into a system and then be filling in the blanks of this one component, while everything else is highly detailed. So in The Sims, even the building is fairly abstracted. You can only put a wall within about a meter. The objects are somewhat abstracted in terms of selection: you don’t have the full selection that you would really have in a furniture store. The granules of interaction in the game are kind of abstracted. So having that consistency, in your head, you fill in the blanks really well. And this is something that kids do quite well of course. You watch kids playing with toys. They’re doing it all the time, very naturally. And even adults are doing that much of the time, with reading books, for example, where there are a lot of blanks to be filled in.</p>
+</blockquote>
+<p>O que é essa abstraction?</p>
+</li>
+<li><blockquote>
+<p>WW: In Go, both players have a model of what’s happening on the board, and over time those models get closer and closer and closer together until the final score. At that point you have a total shared model of, you know, “you beat me.” (Laughter.) </p>
+</blockquote>
+<p>Wow, manifestação das incertezas, definição de um estado. GO seria a pura determinação da realidade na duração.</p>
+<p>Will Wright tem uma definição de <em>Mental Model</em> muito interessante</p>
+<blockquote>
+<p>WW: I don’t think so. I mean it’s interesting. I’m just surprised that people can do that fluidly, they can so fluidly say “Oh, I’m this guy, and then I’m going to do x, y, and z.” And then they can pop out and “Now I’m that person. I’m doing this that and the other. What’s he doing?” And so now he’s a third person to me, even though he was me a moment ago. I think that’s something we use a lot in our imaginations when we’re modeling things. We’ll put ourselves in somebody else’s point of view very specifically for a very short period of time. “Well, let’s see, if I were that person, I would probably do x, y, and z.” And then I kind of jump out of their head and then I’m me, talking to them, relating to them.</p>
+</blockquote>
+<p>Mas ainda sim ele parece se distânciar um pouco de razões mais profundas pra justificar as ações dos jogadores. Ele se aproxima de teorias da psicologia e da filosofia com seu pensamento sobre modelos mentai, mas faz isso a uma distância muito segura talvez. Eu ja imagino que nossa separação, entre o eu e o mundo, é muito mais melada. (How We Became Posthuman e Questões da comunicação e da cognição).</p>
+<p>A noção de avatar também é interessate. Reler esse trecho e escrever sobre os limites da opinião colcoada na entrevista e o meu atual conhecimento sobre o assunto. (talves ele não pense que os indivísuos realmente se tornem seus avatares.)</p>
+<blockquote>
+<p><em>WW: That’s going to be a very different game, because there’s no autonomy behind the characters at all. They’re total avatars. We’re trying to design the game with a very social focus, obviously.</em></p>
+</blockquote>
+<p>Isso muda um pouco o modo de pensar a interação da identidade das pessoas com os personagens virtuais. Quando realmente se interage com outros seres humanos é uma experiência completamente diferente de interagir com figuras humanas, como as do modo single player do the sims.</p>
+</li>
+<li><blockquote>
+<p>WW: Right, I mean what I really want to do is I want to create just the largest possibility space I can. I don’t want to create a specific possibility that everybody’s going to experience the same way. I’d much rather have a huge possibility space where every player has as unique an experience as possible.</p>
+</blockquote>
+<p>Como minecraft atinge um possibility space gigantesco através de uma mímica da nossa forma de criar objetos e a realidade na nossa relação da consciência com o conhecimento e com o espaço. No The sims os objetos são “comprados”, mas o espaço e a memoria dos objetos é construida. <strong>Isso tem relação com a “densidade das ideias”</strong>.</p>
+<blockquote>
+<p>WW: That’s a good question. Because I think you could always make the possibility space larger at the expense of the plausibility or the dramatic potential, or the quality of the experience. There’s probably some relationship between the quality of the experience and the size of the possibility space. So we can make the possibility space huge, just by giving the player a thousand numbers. And “Here, you can make any one of these thousand numbers whatever you want it to be.” That’s a big space. It’s just not a very high quality experience. So we start wrapping graphics, sounds scenarios and events around those numbers, and we’re increasing the quality of the experience you have. It has more meaning to you. In some sense it becomes more evocative. You can start wrapping a mental model around that, as opposed to this pile of numbers.</p>
+</blockquote>
+<p>Dwarf fortress.</p>
+</li>
+<li><p>A ideia de narrativa nos jogos eletrônicos. Muitos jogos embora tenham uma narrativa rígida, possuem um espaço de experiência gigantesco (Bioshock por exemplo).</p>
+</li>
+</ul>
+<p>*The Ability to produce their own entertainment</p>
+<ul>
+<li><blockquote>
+<p>WW: Well, she’s really into Japanese anime. She’s been showing me some of this stuff that is really amazing. There’s this one called Serial Experiments Lain. It’s got so much of The Matrix in it, and what’s interesting, is then you realize that it was made three years before The Matrix. Except it’s much more twisted than The Matrix.</p>
+</blockquote>
+<p>Isso é a plavra final de que ele praticamente não tem conhecimento do que faz num nível filosófico/psicológico, dos limites do indivíduo e os androids.(embora ele não esteja tratando de androids diretamente, mas se apoia na comunicação de tal forma, que certamente influência muito nas determinaçãoes do subjetivo)</p>
+</li>
+<li><blockquote>
+<p>WW: I’ve always wanted to make a game that had a smooth slider where you could go forward and backward and rebranch very, very easily so that at any point I could just pull the slider back and then right there do something, then pull it back again and do something different. And so you’d be kind of interactivity exploring the possibility space, but you’d have equal mobility forward and backward and time. Right now, you have a lot of mobility forward.</p>
+</blockquote>
+<p>OH</p>
+</li>
+<li><blockquote>
+<p>WW: Well, it seems like that should be the case. Frequently there are technical limitations as to why we can’t just instantly jump ahead because <strong>we in fact have to simulate all the interim stuff</strong>. But that seems like that should be one of the huge advantages of that medium is the fact that you have that time mobility.</p>
+</blockquote>
+<p>ISSO É MUITO IMPORTANTE </p>
+</li>
+<li><blockquote>
+<p>WW: Reversible simulations are hard in some sense, though. I mean, this gets into a whole computer science discussion. But, you either store the data or you make it reversible. It can only be made reversible if no information is destroyed. Most simulation processes, such as system dynamics or cellular automata, destroy information.</p>
+</blockquote>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;http-www-gamestudies-org-0102-pearce&quot;&gt;&lt;a href=&quot;#http-www-gamestudies-org-0102-pearce&quot; class=&quot;headerlink&quot; title=&quot;http://www.gamestudi
+    
+    </summary>
+    
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="simulação" scheme="https://viniseneda.github.io/blog/tags/simulacao/"/>
+    
+      <category term="design" scheme="https://viniseneda.github.io/blog/tags/design/"/>
+    
+      <category term="cognição" scheme="https://viniseneda.github.io/blog/tags/cognicao/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MIT Game &amp; Education</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/09/MIT-Game-Education/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/09/MIT-Game-Education/</id>
+    <published>2016-12-09T15:18:27.000Z</published>
+    <updated>2016-12-09T16:59:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Anotações sobre MOOC do MIT a respeito de Game Design e Education.</p>
+<ul>
+<li><p>“edit scenarios” </p>
+<p>As potencialidades de jogos com Sim city, de permitirem a mudança completa da forma que seus objetos “fazem sentido”. O que me intrigou aqui foi o uso da palavra “scenario”, pois penso que ela detem um sentido muito profundo e coerente com o que realmente aconteçe nos jogos de simulação: editar um cenário é um tipo muito poderoso de mudança semâtica, já que seria o fundo sob o qual o objeto é identificado. (gestalt) </p>
+</li>
+<li><p>Correlações do retorno as simulaçõe comentado nos vídeos, com uma questão de novas formas de “game” e “action” com relação ao corpo, se desenvolvendo na sociedade. Talvez computadores se mesclem muito bem com as nossas capacidades cognitivas, e só uma questão de tempo até que se desenvolvessem experiências interativas das mais diversas.</p>
+<p>Dispensão de trabalho livre na internet, como que o desenvolvimento de software começou como algo caro e inóspito – que só podia surgir com condições de lucro mínimas– e que hoje é algo muito além de um modelo de negócios: pessoas dedicam suas vidas a viver experiências através de trocas culturais na internet. Imaginar o desenvolvimento de grupos criadores na internet com relação a noção marxista de trabalho.</p>
+</li>
+<li><p>Compendium de artigos e papers, <em>The Ecology of Games</em>. NO E-MAIL</p>
+</li>
+<li><p>Livro <em>Quest to Learn</em>. NO E-MAIL</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Anotações sobre MOOC do MIT a respeito de Game Design e Education.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;“edit scenarios” &lt;/p&gt;
+&lt;p&gt;As potencialidades de jogos c
+    
+    </summary>
+    
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="simulação" scheme="https://viniseneda.github.io/blog/tags/simulacao/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>08/12/16</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/09/08-12-16/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/09/08-12-16/</id>
+    <published>2016-12-09T13:46:49.000Z</published>
+    <updated>2016-12-10T02:34:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Agora separei um tempo no computador pra ler e organizar as ideias indeterssantes dessa última semana, que fui um pouco corrida devido a entrega de projeto e a prova de PEF.</p>
+<p>Estou hoje tendo vários pensamentos sobre a distância de uma vontade pessoal com a nossa capacidade de realizar aquilo. Por exemplo, só de ficar dois dias longe do “meu quarto” e dos meus guias pessoais de arrumação, sinto que já fiquei um pouco perdido quanto aos objetivos que tinha definido pra mim mesmo. A realização exige concentração e memória de algum tipo claro de objetivo eu acho?</p>
+<ul>
+<li><p>Sapty hoof hypothetis</p>
+<blockquote>
+<p>APL programming language originator Kenneth E. Iverson believed that the Sapir–Whorf hypothesis applied to computer languages (without actually mentioning it by name). His Turing award lecture, “Notation as a tool of thought”, was devoted to this theme, arguing that more powerful notations aided thinking about computer algorithms.[79]</p>
+<p>The essays of Paul Graham explore similar themes, such as a conceptual hierarchy of computer languages, with more expressive and succinct languages at the top. Thus, the so-called blub paradox (after a hypothetical programming language of average complexity called Blub) says that anyone preferentially using some particular programming language will know that it is more powerful than some, but not that it is less powerful than others. The reason is that writing in some language means thinking in that language. Hence the paradox, because typically programmers are “satisfied with whatever language they happen to use, because it dictates the way they think about programs”.[80]</p>
+<p>In a 2003 presentation at an open source convention, Yukihiro Matsumoto, creator of the programming language Ruby, said that one of his inspirations for developing the language was the science fiction novel Babel-17, based on the Sapir–Whorf Hypothesis.[81]</p>
+</blockquote>
+<p> Notation as a tool for thought.<a href="http://www.jsoftware.com/papers/tot.htm" target="_blank" rel="external">LINK</a></p>
+<hr>
+<p> Já sendo o dia sequinte(9/12), agora tenho o blog completamente funcional. Só falta ver alguma forma de manter algum bakup na “NUVEM”. </p>
+<p> No entanto é engraçado esse conflito entre o tempo e o texto nas plataformas digitais. A possíbilidade de mudar o que já foi escrito a todo tempo, e não obrigatoriedade ter registro de tempo dos escritos: é muito difícil diferenciar o momemto das coisas que estão arquivadas em formato digital.</p>
+<p> Agora que queria continuar trabalhando nessa pesquisa que começei ontem, lembrei da apreensão que tenho em lidar com os arquivos que já criei. Penso em começar um novo, mas ao mesmo tempo isso só iria dificultar a leitura do meu próprio trabalho depois.</p>
+<p> A confusão se dá, pois uma parte do arquivo vai ser modificada enquanto outra não, logo vou perder o registro do que eu realmente fiz em cada um dos dias de trabalho; mas até que ponto isso é realmente importante? Por que aui no caso, eu só vou desenvolver os itens da lista, e agora que <strong>escrevi sobre as mudanças que serão feitas</strong>, elas já estão registradas de uma certa maneira.</p>
+</li>
+<li><p>Netlogo</p>
+<p>Descobri ontem que é realmente um descendente direto do StarLogo: segue as mesmas lógicas indicadas no livro que eu li sobre o projeto. TENTAR USAR O NET LOGO PRA APRENDER SOBRE SISTEMAS E PROGRAMAÇÂO</p>
+</li>
+<li><p>User Interface nos jogos da Maxis</p>
+<p>Na verdade eu tenho um interesse mais básico nos princípios gerais da interface gráfica dos computadores; por que janelas? por que menus em cascata?</p>
+<p>Depois vem os jogos da maxis, que, além de terem tido um grande impacto em mim, tem interfaces muito dinâmicas, que cumpriam perfeitamente os seus propósitos. </p>
+<ul>
+<li><p>Os 3 baloes em the sims: Viver, Mobiliar e construir.</p>
+</li>
+<li><p>A escolha de gráficos isométricos. Como eram feitos e programados?</p>
+</li>
+</ul>
+</li>
+<li><p>Bret victor</p>
+</li>
+<li>Site game studies</li>
+<li>Passage video game</li>
+<li><p>First Person: New Media as Story, Performance, and Game.</p>
+<p>Tem na Usp esse livro. Eu devo tetar ler o <em>Game Design Reader</em> antes, mas é bom saber que tenho mais refências imediatamente acessíveis. Eu consigo ler e apriveitar muito bem textos desse assunto, estão muito bem colocados dentro dos meus conhecimentos e capacidades críticas atuais.</p>
+</li>
+<li><p><a href="http://www.iquilezles.org/index.html" target="_blank" rel="external">http://www.iquilezles.org/index.html</a></p>
+<p>Ver melhor esse site aqui. Essa pessoa desenvolveu uma ferramenta de pintura para equipamentos VR.</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Agora separei um tempo no computador pra ler e organizar as ideias indeterssantes dessa última semana, que fui um pouco corrida devido a 
+    
+    </summary>
+    
+    
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+      <category term="netlogo" scheme="https://viniseneda.github.io/blog/tags/netlogo/"/>
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Idéia AI</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/09/Ideia-AI/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/09/Ideia-AI/</id>
+    <published>2016-12-09T13:46:04.000Z</published>
+    <updated>2016-12-09T13:56:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Porque fazemos as coisas que fazemos? Uma proposta de ficção interativa para explorar os limites das nossas escolhas#</p>
+<p>Qual é o limite da influência da sociedade na nossa capacidade real de escolha?</p>
+<p>Conversa com Rafael sobre como embra vc “possa” pular da janela, não vai realmente fazer isso, logo vc realmente não poderia pular da janela? Os jogos de videogame as vezes ampliam ou reduzem esses limites a respeito das nossas opções de escolha. Rafael citou o exemplo de Gone Home, onde vc pode interagir com todos os objetos de uma casa individualmente, em comparação com outros jogos onde sua capacidade real, de escolhas possíveis e muito limitada.</p>
+<p>Exemplo jogos 2D onde você realmente só pode andar em duas dimensões, e como isso “reduz” as possíveis interações.</p>
+<p>A minha ideia foi de conceber um jogo onde durante a duração do jogo se migre de uma dinamica reduzida de interações do usuario com as possibilidades de ação do personagem para uma situação onde as ações do personagem estariam mais próximas da experiência de consciência humana com respeito as ações reais? Qual são os limitantes das nossas ações possíveis? Influencia do Habito e Bordieu.</p>
+<p>Agora, como transformar isso em jogo.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#Porque fazemos as coisas que fazemos? Uma proposta de ficção interativa para explorar os limites das nossas escolhas#&lt;/p&gt;
+&lt;p&gt;Qual é o li
+    
+    </summary>
+    
+    
+      <category term="projeto" scheme="https://viniseneda.github.io/blog/tags/projeto/"/>
+    
+      <category term="I.F." scheme="https://viniseneda.github.io/blog/tags/I-F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01/12/16</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/09/01-12-16/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/09/01-12-16/</id>
+    <published>2016-12-09T13:43:46.000Z</published>
+    <updated>2016-12-09T13:58:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><p>Estou na aula de Infraestrutura. Escrevi coisas nos meus cadernos.</p>
+<blockquote>
+<p>RELAÇÂO POLÍTICA DE DAR CRÉDITO A UM PENSAMENTO PELA SUA CAPACIDADE DE ATER A UM SISTEMA ESTRUTURADO. NO ENTANTO, INDIVÍDUO PODE SUSTENTAR ELE MESMO UMA IDEIA SE DAR CONTA DAS SUAS IMPLICAÇÔES.<br>Isso se relaciona com as minhas leituras dos processos pedagógicos e de “política” como algo próximo da “filosofia da mente”, no sentido de ser uma construção para tratar desses problemas que fogem o “conhecimento formal” – categorias simbólicas talves, aquilo que tem causa e efeito, aquilo que nossa “lógica” pode satisfatoriamente classificar.</p>
+</blockquote>
+<p>Aqui eu noto que existe um entendimento de algo além das representações textuais do conhecimento, certamente uma vontade “espiritual” de conhecer mas ao mesmo tempo não existente fora das condições corporais.</p>
+<p>É estranho pois, eu não consigo também eliminar a riqueza de experiências que com certeza existem em uma escola como a FFLCH; Mas levar o estudo dos textos à um tipo de compreensão aprisionada, uma não libertação?. (esse pensamento é reducionista, certamente a produção de conhecimento na universisade é sempre muito rica, sendo produto de uma mente viva necessariamente. Mas como funcionam as prisões dos métodos e as discussões eternas sobre a eficiência e a validade de algumas pesquisas?)</p>
+<p>Quando eu começo a pensar nessa relação entre cognição, conhecimento e política – como sendo as formas de controle entre os indivíduos – é possível montar toda uma outra noção de conhecimento possível. (, algo justamente além de qualquer tipo de limite. EXISTEM CONDIÇÔES PARA O CONHECIMENTO HUMANO, EM DIFERENTES NÍVEIS. Talvez queria dizer que o conhecimento não tem limites por que as definições de limites sempre podem ser rediscutidas, se tratando de algo “político”).</p>
+<p>Imaginando um indivíduo emancipado e políticamente consciênte das formas em que é manipulado com relação as coisas que pode conhecer, ele começa a precisar dominar alguns conhecimentos para expressar e conhecer outros, como a linguagem ou o raciocínio matemático. É essa situação que devo explorar.</p>
+<p>As relações da nossa consciência com os nossos conhecimentos e experiências e a forma que esses modificam a nossa relação com o mundo, afetam a forma que obtemos mais conhecimento. O QUE É CONHECIMENTO?</p>
+<p>Acho que aqui entram os autores importantes desses temas, Bordieu, Foucault e até Bachelard.</p>
+<p>COMO QUE UM INDIVIDUO PODERIA SUSTENTAR UMA IDEIA, UM CONHECIMENTO, INDIVIDUALMENTE? USANDO DE “POLÍTICA”?</p>
+<p><strong>Definir política</strong></p>
+<ul>
+<li>Gordon mata klark</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Estou na aula de Infraestrutura. Escrevi coisas nos meus cadernos.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;RELAÇÂO POLÍTICA DE DAR CRÉDITO A UM PENS
+    
+    </summary>
+    
+    
+      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
+    
+      <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
+    
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+      <category term="política" scheme="https://viniseneda.github.io/blog/tags/politica/"/>
+    
+      <category term="conhecimento" scheme="https://viniseneda.github.io/blog/tags/conhecimento/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://viniseneda.github.io/blog/2016/12/09/Hello-world/"/>
+    <id>https://viniseneda.github.io/blog/2016/12/09/Hello-world/</id>
+    <published>2016-12-09T13:36:46.000Z</published>
+    <updated>2016-12-09T13:56:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><p>Não consegui (ou não tinha conseguido) colocar isso no blog ainda. E entre essa tentativa e alguns episódios de irmão do jorel se foram muitos muitas horas (duas). Eu estou bebendo chimarrão também então isso certamente contribui para a ansiedade.</p>
+<p>Muitas coisas para se fazer ainda hoje e a ansiedade de não realmente ter tempo para todas as atividades e tarefas a serem realizadas no dia. Eu fiquei me enviando as coisas sobre as quais tinha que escrever no Instagram, e justamente eu agora preciso desses guias pra me lembrar do que queria escrver; tão diferente é o meu “estado”.</p>
+<p>Colocar links do youtube ia facilitar muito a utilidade do blog, mas eu certamente não tenho tempo de fazer isso agora, já que ficou claro que arrumar o blog para o português e para funcionar do jeito que preciso, vai demorar um tempo.</p>
+</li>
+<li><p>Hoje fiquei no Rafael até bem tarde, não devo agora usar isso como desculpa pra extender a procrastinação até além do que ela realmente pode ir.</p>
+<p>Rafael me mostrou muitas coisas interessantes ontem/hoje; coisas que se relacionam muito profundamente com o meu estado de espírito e de conhecimento. </p>
+<p><em>J5 e cursos</em><br>Site do <a href="http://shiffman.net/" target="_blank" rel="external"><em>Daniel Shiffman</em></a> e os seus livros e apostilas. INCLUIR NOS ESTUDOS DE FÉRIAS.</p>
+<p><em>Simulating the world in emoji</em><br>Um rapaz da internet que criou uns <a href="http://ncase.me/simulating/" target="_blank" rel="external">aplicativos</a> pra navegador que roda simulações de sistemas compllexos dentro do navegador, usando emojis. </p>
+<p>No fim ele coloca suas referências, que são na verdade o ponto máximo de interesse. As referências levaram a um outro cara, esse simplemente revolucionário: Bret Victor.</p>
+<p>Bret tem um site muito bem documentado no qual estão aplicados todas as coisas sobre as quais ele fala.</p>
+<p>#<a href="http://worrydream.com/" target="_blank" rel="external">http://worrydream.com/</a>#</p>
+<ul>
+<li><a href="http://reinoudvanlaar.nl/project/leavespattern/" target="_blank" rel="external">Perlin Noise</a></li>
+</ul>
+</li>
+<li><p>##Tribos de Adolescentes e Artefatos corporais.##</p>
+<p>Já tinha pensando nisso antes, primeiro em referência a minha memória das diferentes “febres” de pulseiras na minha infância e pré-adolescência. De fazer pulseiras com canos transparentes usados pra fazer instalações elétricas em carros eu acho, que eram ligados com pedacinhos de madeira e preenchidos com água e corante.</p>
+<p>Hoje vi um menino no metro com várias dessas pulserinhas de couro no braço; é algo que é bem comum mas é preciso avaliar se há uma ocorrência maior dentro de uma faixa etária específica. Tenho a impressão de ver isso também em pessoas mais velhas.</p>
+<p>No entanto consigo identificar que essa “moda” está sempre associada a ideia de “coleção” e de “acumulação”. Tanto as pulseiras feitas de cano, quanto as feitas de elástico, as trançadas de fios encerados coloridos e agora as de couro - talvez -, estão sempre aos montes nos braços das pessoas. </p>
+<p>Pensando agora em ocorrências tribais e etc, começo a pensar que a ideia de adornos específicos como pulseiras, tornozeleiras e colares teriam todos uma possível relação com o desenvolvimento e comportamentos humanos mais amplos de alguma forma.</p>
+<p>Esse comportamente ganha uma nova luz se pensado do ponto de vista do artesanato e da manufatura, um tipo de significação especial pros objetos corporais. (se bem que as lembranças que tenho disso é que geralmente as crianças manufatureiras fazem um tipo de industria caseira, e exploram a demanda das outras crianças pelos “objetos de vestimenta”)</p>
+<p>Achei um  pouco difícil de achar exatamente isso no google; qualquer tentativa de procurar por “moda” ou por “roupa” leva a resultados que saem completamente dos meus objetivos. No entando encontrei no “psychology today” um <a href="(https://www.psychologytoday.com/blog/apologies-freud/201009/why-your-teen-insists-dressing-exactly-her-friends">artigo</a> falando disso, e associando o fenomeno das demandas adolescêntes por copiar o estilo de roupa de outros à um tipo de reflexo: <em>“It seems they seek to bolster themselves by mimicking and adopting aspects of a close friend or “twin” through a phenomenon first discussed by H. Kohut, and since known to psychologists as “twinning,” or establishing a “twinship,” with an admired peer. “</em></p>
+<p>Continuar atento as possibilidades dessa ideia.</p>
+<blockquote>
+<p>IDEIA DE FUNÇÃO – Inserir texto inteiro em função “drop” na página.  Somente a citação fica aparecendo, o texto se mostra quando usuário clica. Assim as <strong>bibliografias ficariam vivas</strong> na página, e os comentários também se tornam arquivos. [Acho que conseguiria programar isso com texto somente]. Pensei isso por causa do artigo ali em cima, que serviria muito se pudesse ser completamente arquivado junto com o uso que fiz dele; sites são voláteis de certa forma.</p>
+</blockquote>
+<p>*Escrever sobre INSIDE depois</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Não consegui (ou não tinha conseguido) colocar isso no blog ainda. E entre essa tentativa e alguns episódios de irmão do jorel s
+    
+    </summary>
+    
+    
+      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
+    
+      <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
+    
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+      <category term="programação" scheme="https://viniseneda.github.io/blog/tags/programacao/"/>
+    
+      <category term="complexidade" scheme="https://viniseneda.github.io/blog/tags/complexidade/"/>
+    
+      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
+    
+  </entry>
+  
+</feed>
