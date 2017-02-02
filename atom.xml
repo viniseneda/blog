@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://viniseneda.github.io/blog/"/>
-  <updated>2017-01-31T23:20:05.816Z</updated>
+  <updated>2017-02-02T18:34:15.015Z</updated>
   <id>https://viniseneda.github.io/blog/</id>
   
   <author>
@@ -16,11 +16,88 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>IF ANTROPO TEMPLO</title>
+    <link href="https://viniseneda.github.io/blog/2017/02/02/IF-ANTROPO-TEMPLO/"/>
+    <id>https://viniseneda.github.io/blog/2017/02/02/IF-ANTROPO-TEMPLO/</id>
+    <published>2017-02-02T18:33:03.000Z</published>
+    <updated>2017-02-02T18:34:15.015Z</updated>
+    
+    <content type="html"><![CDATA[<p>relacionamento de dois individuos</p>
+<ol>
+<li><p>uma personificação de um deus</p>
+</li>
+<li><p>um menino de baixa casta em uma vila isolada.</p>
+</li>
+</ol>
+<p>A EXPERIECNIA DE PARTICIPAIR DE RITUAIS E O ENTENDIMENTO SIMBOLICO ATRIBUIDO A IDOLOS ATRAVÉS DOS MESMOS</p>
+<p>A FORMA QUE HABITOS NA TRIBO SE MANIFESTAM DE MODO QUE OS RITOS SEJAM REALIZADOS – a construção dos espaços sagrados, a produção de alimentos para os deuses, a educação dos sacerdotes.</p>
+<p>A DEMOSTRAÇÂO DE ESPAÇOS SAGRADOS A SEPARAÇÂO SEMANTICA DE DIFERENTES NATUREZAS DE ESPAÇO. (space in japanese architecture)</p>
+<p>EXPERIENCIA DE TEMPO E REPETIÇÂO, CONTROLE DE CORPO EM SITUAÇÔES DE RITUAL : MECHER A CABEÇA, ENTAO OS MEMBROS E ENTÂO PRONUNCIAR PALAVRAS.</p>
+<p>ARVORE DE AÇÔES UNIDIRECIONAL</p>
+<p>A cada ação escolhida novas são sugeridas, mas só eh possivel escolher uma e não se pode voltar atrás (no fundo nem todas realmente levam a uma mudança no roteiro, mas a mudança eh possivel)</p>
+<p>VARRER O CHAO.</p>
+<p>a. continuar varrendo<br>b. olhar para Deusa<br>c. varrer exterior</p>
+<p>OLHAR A DEUSA</p>
+<p>a. parar de varrer<br>b. continuar varrendo</p>
+<p>AS ESCOLHAS EXPANDEM O TEMPO QUANDO FOGEM DO HABITO. DEMONSTRAR A POSSIBILIDADE DE FUGIR DO HABITO ATRAVES DE UM ACASO, UM ACIDENTE.</p>
+<p>E assim o tempo passa e certas ações se tornam irresolutas</p>
+<p>Esse sistema parece representar bem a ideia da dificuldade de mudar a realidade de uma situação onde as regras são impostas socialmente.</p>
+<p>MAS COMO IMPLEMENTAR?</p>
+<p>Na verdade como implementar modos de usar dos gráficos pra contar histórias sobre os espaços?</p>
+<p>QUeria uma forma de compor objetos e espaços e então usar desse sistema de navegação de forma automática. Não o tradicional encontrado em IF, onde a vontade que move o personagem eh o jogador, e não o proprio personagem – as ações de um personagem sao limitadas pelas condições da sua consciência no mundo em que existe.</p>
+<p>####<br><em>##</em><br><em>##</em></p>
+<hr>
+<p>temple</p>
+<p>@</p>
+<p>character</p>
+<p>####<br>@##<em>
+</em>##*</p>
+<hr>
+<p>CONDIÇÂO A</p>
+<p>a.varrer<br>b.varrer jardim</p>
+<p>####<br>@##<em>
+</em>##*</p>
+<hr>
+<p>CONDIÇAO B</p>
+<p>a. olhar desenhos na parede<br>b. ir para casa.</p>
+<p>QUERO PODER DESCREVER TODOS OS ELEMENTOS QUE COMPOEM O MUNDO CONCEBIDO, E FAZER DEPENDER DO JGOADOR ENCONTRAR OU NÂO TODOS OS DETALHES</p>
+<p>TILE DESCRIPTION</p>
+<p>kind<br>    WALL<br>    PATH<br>    OBJECT</p>
+<p>CRIAR UM TIPO DE SIMULAÇAO NO FIM, ONDE ATRAVES DE CERTAS ESCOLHAS SE MUDA O ESTADO DE PERSONALIDADE.</p>
+<p>MUNDO FORNECE INFORMACAO </p>
+<p>MODELO DE MENTE </p>
+<p>PROCURAR UMA ENGINE PRA QUE PERMITA ESSE TIPO DE PROGRAMACAO.</p>
+<p>QUERIA ALGO QUE PERMITISSE MANIPULACAO GRAFICA TBM</p>
+<p>QUERO FAZER UMA NARRATIVA GRAFICA INTERATIVA TAMBEM</p>
+<p>EU VEJO A POSSIBILIDADE DE FAZER CAPITULOS EM NARRATIVA DIRECIONADA E TRECHOS COM GRANDE INTERATIVIDADE</p>
+<p>LINKS{<br><a href="https://en.wikipedia.org/wiki/MUD" target="_blank" rel="external">https://en.wikipedia.org/wiki/MUD</a><br>    }</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;relacionamento de dois individuos&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;uma personificação de um deus&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;um menino de baixa casta em uma vila iso
+    
+    </summary>
+    
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="projeto" scheme="https://viniseneda.github.io/blog/tags/projeto/"/>
+    
+      <category term="I-F" scheme="https://viniseneda.github.io/blog/tags/I-F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>trinta e um</title>
     <link href="https://viniseneda.github.io/blog/2017/01/31/trinta-e-um/"/>
     <id>https://viniseneda.github.io/blog/2017/01/31/trinta-e-um/</id>
     <published>2017-01-31T20:19:06.000Z</published>
-    <updated>2017-01-31T23:20:05.816Z</updated>
+    <updated>2017-02-01T01:20:24.797Z</updated>
     
     <content type="html"><![CDATA[<p>IDEIA DA CRIAÇÃO DA REVISTA</p>
 <p>#(conversa com Rafael)</p>
@@ -62,6 +139,7 @@
 <p>LIBRARY SYSTEM AS AN EXAMPLE OF STUDY</p>
 <p>Os sistemas de informação materializados nas operações de bibliotecas físicas, pode ser usado como um acesso fácil a todo o conjunto de argumentos em torno da manifestação física de sistemas de informação (A tese de Beniger). O que quero dizer com isso? Que quando me ver necessitado de ter um caso próximo da minha realidade pra servir como ancora de análise e pensamento pra situações “globais” mais complexas. </p>
 <p>Uma ferramenta heurística talves? (Entendi essa palavra melhor esses dias e já faz uma diferênça muito grande; ferramenta epistemológica de fato).</p>
+<p>Tem muitas informações precisosas distribuidas no site dessa moça, sem barreiras ou paywalls; na vdd ela até disponibiliza o pinboard dela. Preciosśssimo  <a href="http://www.wordsinspace.net/shannon/" target="_blank" rel="external">http://www.wordsinspace.net/shannon/</a></p>
 ]]></content>
     
     <summary type="html">
@@ -72,6 +150,8 @@
     
     </summary>
     
+    
+      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
@@ -125,9 +205,9 @@
     
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
-      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
-    
       <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
     
       <category term="derrida" scheme="https://viniseneda.github.io/blog/tags/derrida/"/>
     
@@ -138,7 +218,7 @@
     <link href="https://viniseneda.github.io/blog/2017/01/19/Dia-19-e-ongoing/"/>
     <id>https://viniseneda.github.io/blog/2017/01/19/Dia-19-e-ongoing/</id>
     <published>2017-01-19T11:10:34.000Z</published>
-    <updated>2017-01-19T12:34:18.088Z</updated>
+    <updated>2017-02-01T01:21:02.898Z</updated>
     
     <content type="html"><![CDATA[<ul>
 <li><p>Ontem depois de um certo esforço achei um tema ótimo pro Blog. Agora procuro investigar melhor informações de anotações e etc.</p>
@@ -163,11 +243,11 @@
     </summary>
     
     
+      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
+    
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
       <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
-    
-      <category term="sisteamas" scheme="https://viniseneda.github.io/blog/tags/sisteamas/"/>
     
       <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
     
@@ -477,11 +557,11 @@
     
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
-      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
-    
       <category term="netlogo" scheme="https://viniseneda.github.io/blog/tags/netlogo/"/>
     
       <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
+    
+      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
     
   </entry>
   
@@ -551,11 +631,11 @@
     </summary>
     
     
-      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
-    
       <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
+    
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
       <category term="política" scheme="https://viniseneda.github.io/blog/tags/politica/"/>
     
@@ -610,17 +690,17 @@
     </summary>
     
     
-      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
-    
-      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
-    
       <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
     
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
       <category term="programação" scheme="https://viniseneda.github.io/blog/tags/programacao/"/>
     
       <category term="complexidade" scheme="https://viniseneda.github.io/blog/tags/complexidade/"/>
+    
+      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
     
   </entry>
   
