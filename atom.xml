@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://viniseneda.github.io/blog/"/>
-  <updated>2017-02-02T18:34:15.015Z</updated>
+  <updated>2017-02-18T20:46:14.673Z</updated>
   <id>https://viniseneda.github.io/blog/</id>
   
   <author>
@@ -16,11 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>dia 18</title>
+    <link href="https://viniseneda.github.io/blog/2017/02/18/dia-18/"/>
+    <id>https://viniseneda.github.io/blog/2017/02/18/dia-18/</id>
+    <published>2017-02-18T20:44:25.000Z</published>
+    <updated>2017-02-18T20:46:14.673Z</updated>
+    
+    <content type="html"><![CDATA[<p>ontem escrevi isso num arquivo de texto:</p>
+<p>Entrei no computador depois de fazer um chimarrao e terminar o capitulo de UTOPIA. Tentei instalar Master of Orion no XP, não foi. Joquei um pouco de System Shock 2 pra descobrir que o progresso não salva automáticamente. Não consegui voltar a jogar Cave Story tão facilmente. No linux consegui rodar Master of Orion, mas não joguei por muito tempo.</p>
+<p>Agora acabei de fica rum tempo perambulando pela internet pensando na complexidade em torno de Dwarf Fortress e as suas comunidades.</p>
+<p>[Imagem df, procurar imagem da comunidade de Roller coaster]</p>
+<p><img src="https://viniseneda.github.io/blog/images/Finfront.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ontem escrevi isso num arquivo de texto:&lt;/p&gt;
+&lt;p&gt;Entrei no computador depois de fazer um chimarrao e terminar o capitulo de UTOPIA. Tentei
+    
+    </summary>
+    
+    
+      <category term="diario" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+  </entry>
+  
+  <entry>
     <title>IF ANTROPO TEMPLO</title>
     <link href="https://viniseneda.github.io/blog/2017/02/02/IF-ANTROPO-TEMPLO/"/>
     <id>https://viniseneda.github.io/blog/2017/02/02/IF-ANTROPO-TEMPLO/</id>
     <published>2017-02-02T18:33:03.000Z</published>
-    <updated>2017-02-02T18:34:15.015Z</updated>
+    <updated>2017-02-02T18:42:57.675Z</updated>
     
     <content type="html"><![CDATA[<p>relacionamento de dois individuos</p>
 <ol>
@@ -45,19 +71,27 @@
 <p>MAS COMO IMPLEMENTAR?</p>
 <p>Na verdade como implementar modos de usar dos gráficos pra contar histórias sobre os espaços?</p>
 <p>QUeria uma forma de compor objetos e espaços e então usar desse sistema de navegação de forma automática. Não o tradicional encontrado em IF, onde a vontade que move o personagem eh o jogador, e não o proprio personagem – as ações de um personagem sao limitadas pelas condições da sua consciência no mundo em que existe.</p>
-<p>####<br><em>##</em><br><em>##</em></p>
+<blockquote><p>####<br><em>##</em><br><em>##</em></p>
 <hr>
+</blockquote>
 <p>temple</p>
-<p>@</p>
+<blockquote>
+<p>#</p>
+</blockquote>
 <p>character</p>
+<blockquote>
+<p>@</p>
 <p>####<br>@##<em>
 </em>##*</p>
 <hr>
+</blockquote>
 <p>CONDIÇÂO A</p>
 <p>a.varrer<br>b.varrer jardim</p>
+<blockquote>
 <p>####<br>@##<em>
 </em>##*</p>
 <hr>
+</blockquote>
 <p>CONDIÇAO B</p>
 <p>a. olhar desenhos na parede<br>b. ir para casa.</p>
 <p>QUERO PODER DESCREVER TODOS OS ELEMENTOS QUE COMPOEM O MUNDO CONCEBIDO, E FAZER DEPENDER DO JGOADOR ENCONTRAR OU NÂO TODOS OS DETALHES</p>
@@ -84,11 +118,11 @@
     </summary>
     
     
-      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
-    
       <category term="projeto" scheme="https://viniseneda.github.io/blog/tags/projeto/"/>
     
-      <category term="I-F" scheme="https://viniseneda.github.io/blog/tags/I-F/"/>
+      <category term="I.F." scheme="https://viniseneda.github.io/blog/tags/I-F/"/>
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
     
   </entry>
   
@@ -151,9 +185,9 @@
     </summary>
     
     
-      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
-    
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
+      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="programacao" scheme="https://viniseneda.github.io/blog/tags/programacao/"/>
     
@@ -205,9 +239,9 @@
     
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
-      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
-    
       <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
+    
+      <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
     
       <category term="derrida" scheme="https://viniseneda.github.io/blog/tags/derrida/"/>
     
@@ -243,11 +277,11 @@
     </summary>
     
     
-      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
-    
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
       <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
+    
+      <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
     
@@ -557,11 +591,11 @@
     
       <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
-      <category term="netlogo" scheme="https://viniseneda.github.io/blog/tags/netlogo/"/>
+      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
     
       <category term="games" scheme="https://viniseneda.github.io/blog/tags/games/"/>
     
-      <category term="linguagem" scheme="https://viniseneda.github.io/blog/tags/linguagem/"/>
+      <category term="netlogo" scheme="https://viniseneda.github.io/blog/tags/netlogo/"/>
     
   </entry>
   
@@ -631,11 +665,11 @@
     </summary>
     
     
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
       <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
       <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
-    
-      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
     
       <category term="política" scheme="https://viniseneda.github.io/blog/tags/politica/"/>
     
@@ -690,17 +724,17 @@
     </summary>
     
     
+      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+    
       <category term="sistemas" scheme="https://viniseneda.github.io/blog/tags/sistemas/"/>
     
-      <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
+      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
     
-      <category term="diário" scheme="https://viniseneda.github.io/blog/tags/diario/"/>
+      <category term="ensaio" scheme="https://viniseneda.github.io/blog/tags/ensaio/"/>
     
       <category term="programação" scheme="https://viniseneda.github.io/blog/tags/programacao/"/>
     
       <category term="complexidade" scheme="https://viniseneda.github.io/blog/tags/complexidade/"/>
-    
-      <category term="psicologia" scheme="https://viniseneda.github.io/blog/tags/psicologia/"/>
     
   </entry>
   
